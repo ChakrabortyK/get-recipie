@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/get-recipie/static/css/main.e211f849.css",
+    "main.js": "/get-recipie/static/js/main.d1bfef75.js",
+    "index.html": "/get-recipie/index.html",
+    "main.e211f849.css.map": "/get-recipie/static/css/main.e211f849.css.map",
+    "main.d1bfef75.js.map": "/get-recipie/static/js/main.d1bfef75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e211f849.css",
+    "static/js/main.d1bfef75.js"
+  ]
+}
